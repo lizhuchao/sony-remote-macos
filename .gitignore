@@ -1,0 +1,8 @@
+.DS_Store
+.venv/
+.venv312/
+build/
+cert.pem
+key.pem
+demo.py
+*.wav
